@@ -38,7 +38,7 @@
         <section id="how-to-play">
             <h2>How to Play</h2>
             <!soccergoal.png>
-            <img src="images/goal.png" alt="Goal" />
+            <img src="soccergoal.png" alt="Goal" />
             <p>[Use the arrow keys to move the ball across the field.
 Objective: Navigate past randomly moving defenders and score goals.
 ]</p>
