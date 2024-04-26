@@ -32,17 +32,20 @@
             <h2>Game Information</h2>
             <!-- soccerplayer.png -->
             <img src="images/soccer_player.png" alt="Soccer Player" />
-            <p>[Your game description and details here.]</p>
+            <p>[Dive into an engaging soccer game experience where you control a soccer ball, aiming to dodge defenders and score goals. Inspired by foosball, this interactive game offers multiple levels, each with increased difficulty. As you score, the game levels up, enhancing the ball's speed and adding more defenders to intensify the challenge.
+]</p>
         </section>
         <section id="how-to-play">
             <h2>How to Play</h2>
             <!soccergoal.png>
             <img src="images/goal.png" alt="Goal" />
-            <p>[Instructions on how to play your game.]</p>
+            <p>[Use the arrow keys to move the ball across the field.
+Objective: Navigate past randomly moving defenders and score goals.
+]</p>
         </section>
         <section id="about-us">
             <h2>About Us</h2>
-            <p>[Team: Bhargavi and Bertrand]</p>
+            <p>[Bhargavi and Bertrand]</p>
         </section>
     </main>
     <footer>
